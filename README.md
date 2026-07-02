@@ -77,7 +77,7 @@ public/              # Static assets
 2. **Select Answers**: Click any option (A, B, C, D) to choose your answer
 3. **Navigate**: Use Previous/Next buttons to review or move between questions
 4. **Review**: Verify all answers are selected before submitting
-5. **Submit**: Click Submit Quiz (button is only enabled when all questions are answered)
+5. **Submit**: Click Submit Quiz (button is only enabled when at least half of the questions are answered)
 6. **View Results**: See your score, feedback remark, and a restart button
 
 ## Quiz Questions
